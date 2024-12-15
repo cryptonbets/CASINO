@@ -61,18 +61,6 @@ We love feedback! If you have any suggestions, issues, or ideas, feel free to op
 
 ---
 
-## 🌟 **Contribute to the Project**
-
-We welcome contributions! If you'd like to improve or add new features to **CryptonBets**, follow these simple steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request.
-
-Let's build something amazing together! 🚀
-
----
+![CryptonBets Logo](https://cryptonbets.com/assets/upload/icons-logos/fbshare.jpeg)
 
 **Enjoy and Gamble Responsibly! 🎰💎**
