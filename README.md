@@ -6,7 +6,7 @@ Experience the world of cryptocurrency gambling with **CryptonBets**, the platfo
 
 <!-- Canvas-like Button at the Top -->
 <div align="center">
-  <a href="https://cryptonbets.com/" target="_blank">
+  <a href="https://cryptonbets.com/signup?promo_code=crypto777" target="_blank">
     <canvas id="casinoButton" width="300" height="100" style="border-radius: 50px; cursor: pointer;"></canvas>
   </a>
 </div>
@@ -21,7 +21,7 @@ Follow these simple steps to deposit USDT:
 2. Use your favorite crypto wallet or exchange to send USDT to our platform's deposit address.
 3. Once the transaction is confirmed, your deposit will be credited to your account.
 
-[![Deposit USDT Now](https://img.shields.io/badge/Deposit%20USDT%20Now-28a745?style=for-the-badge&logo=tether&logoColor=white)](https://cryptonbets.com/)
+[![Deposit USDT Now](https://img.shields.io/badge/Deposit%20USDT%20Now-28a745?style=for-the-badge&logo=tether&logoColor=white)](https://cryptonbets.com/signup?promo_code=crypto777)
 
 ---
 
@@ -40,7 +40,7 @@ Place your bets using various cryptocurrencies and stand a chance to win big rew
 
 ## 🔗 **Quick Links**
 
-- [🚀 Visit CryptonBets](https://cryptonbets.github.io/CASINO/crypto.html)
+- [🚀 Visit CryptonBets](https://cryptonbets.com/signup?promo_code=crypto777)
 
 Enjoy the game and good luck!
 
@@ -60,7 +60,5 @@ Enjoy the game and good luck!
 We love feedback! If you have any suggestions, issues, or ideas, feel free to open an issue on the GitHub repository or reach out to us through our social media channels.
 
 ---
-
-![CryptonBets Logo](https://cryptonbets.com/assets/upload/icons-logos/fbshare.jpeg)
 
 **Enjoy and Gamble Responsibly! 🎰💎**
